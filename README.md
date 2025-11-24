@@ -19,4 +19,4 @@ Run the development server: npm start
 Open in your browser: http://localhost:5173/   
 The port might vary on yours.
 
-Deployed Link: mycounterapp4.netlify.app
+Deployed Link: https://mycounterapp4.netlify.app/
